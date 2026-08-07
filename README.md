@@ -20,7 +20,7 @@ This needs near-ideal conditions. Results degrade with:
 - Cloud or smoke cover
 - Bright or optically thick smoke nearby
 
-It tends to work best on wind-driven fires with high BTUs and little smoke.
+It tends to work best on wind-driven fires with high BTUs and little/offset smoke.
 
 ## Setup
 
