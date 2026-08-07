@@ -4,6 +4,8 @@ Detect active-fire hotspots from [Sentinel-2 L2A](https://docs.sentinel-hub.com/
 
 Hotspot logic is adapted from **QuickFire V1.0.0** by [Pierre Markuse](https://x.com/Pierre_Markuse) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)), originally published as an evalscript in the [Copernicus Browser](https://dataspace.copernicus.eu/browser/).
 
+<img width="2018" height="833" alt="image" src="https://github.com/user-attachments/assets/a278dd77-c196-4d9a-ae1c-9ca503788e08" />
+
 ## How it works
 
 1. Search and load Sentinel-2 L2A COGs from [Element 84](https://element84.com/)’s public [STAC](https://stacspec.org/) API (`earth-search`)
