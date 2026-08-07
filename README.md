@@ -1,6 +1,6 @@
 # Wildfire Footprinting With Sentinel-2
 
-Detect active-fire hotspots from [Sentinel-2 L2A](https://docs.sentinel-hub.com/api/latest/data/sentinel-2-l2a/) imagery and export map-ready polygons (shapefile / GeoJSON) plus supporting GeoTIFFs.
+Detect active-fire hotspots from [Sentinel-2 L2A](https://docs.sentinel-hub.com/api/latest/data/sentinel-2-l2a/) imagery and export map-ready features or integrate detection/mapping workflows.
 
 Hotspot logic is adapted from **QuickFire V1.0.0** by [Pierre Markuse](https://x.com/Pierre_Markuse) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)), originally published as an evalscript in the [Copernicus Browser](https://dataspace.copernicus.eu/browser/).
 
