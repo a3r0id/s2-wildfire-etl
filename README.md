@@ -2,7 +2,7 @@
 
 Detect active-fire hotspots from Sentinel-2 L2A imagery and export map-ready polygons (shapefile / GeoJSON) plus supporting GeoTIFFs.
 
-Hotspot logic is adapted from **QuickFire V1.0.0** by [Pierre Markuse](https://x.com/Pierre_Markuse) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)), originally published as an [evalscript in the Copernicus Browser](https://dataspace.copernicus.eu/browser/).
+Hotspot logic is adapted from **QuickFire V1.0.0** by [Pierre Markuse](https://x.com/Pierre_Markuse) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)), originally published as an evalscript in the [Copernicus Browser](https://dataspace.copernicus.eu/browser/).
 
 ## How it works
 
