@@ -1,4 +1,4 @@
-# Wildfire Footprinting With Sentinel-2
+# Wildfire Hotspot Footprinting With Sentinel-2
 
 Detect active-fire hotspots from [Sentinel-2 L2A](https://docs.sentinel-hub.com/api/latest/data/sentinel-2-l2a/) imagery and export map-ready features or integrate detection workflows.
 
