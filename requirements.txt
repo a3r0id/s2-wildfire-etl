@@ -1,0 +1,12 @@
+pystac_client
+rasterio
+odc-stac
+odc-geo
+xarray
+numpy
+matplotlib
+geopandas
+shapely
+tabulate
+python-dotenv
+folium
