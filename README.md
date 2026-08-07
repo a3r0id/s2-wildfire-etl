@@ -4,6 +4,7 @@ Detect active-fire hotspots from [Sentinel-2 L2A](https://docs.sentinel-hub.com/
 
 Hotspot logic is adapted from **QuickFire V1.0.0** by [Pierre Markuse](https://x.com/Pierre_Markuse) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)), originally published as an evalscript in the [Copernicus Browser](https://dataspace.copernicus.eu/browser/).
 
+*2026 Old Trails Fire - Spokane, Washington, United States*
 <img width="996" height="387" alt="image" src="https://github.com/user-attachments/assets/49036045-7eb8-4af3-953a-12648d936bc0" />
 
 
